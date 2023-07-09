@@ -1,4 +1,4 @@
-### Hi there 👋
+# About Me
 
 <table>
 <tr>
@@ -13,7 +13,7 @@
 <br><br>Hobbies: ⚽ · 🎮 · 🧑‍💻
 </td>
 <td>
-<img src="https://gtce.itsvg.in/api?username=tayabsoomro&theme=default_repocard&border=false" width="450" />
+<img src="https://gtce.itsvg.in/api?username=semtu&theme=default_repocard&border=false" width="450" />
 </td>
 </tr>
 </table>
