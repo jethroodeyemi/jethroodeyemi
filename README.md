@@ -7,7 +7,7 @@
 <ul>
 <li> 🧬 Full Stack Developer @ <a href="https://pathfinder365.com">Pathfinder365</a> </li>
 <li> 🌾 Machine Learning Engineer </li>
-<li> 🎓 M.Sc. Biomedical Engineering | B.Sc. Mechatronics</li>
+<li> 🎓 M.Sc. Bio Engineering | B.Sc. Computer and Mechatronics</li>
 </uk>
 
 <br><br>Hobbies: ⚽ · 🎮 · 🧑‍💻
