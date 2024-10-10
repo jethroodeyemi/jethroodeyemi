@@ -5,9 +5,11 @@
 <td>
 <h3>Jethro Odeyemi</h3>
 <ul>
-<li> 🧬 Full Stack Developer @ <a href="https://pathfinder365.com">Pathfinder365</a> </li>
 <li> 🌾 Machine Learning Engineer </li>
-<li> 🎓 B.Sc. Computer and Mechatronics</li>
+<li> 🧬 Technology Lead @ <a href="https://roamlii.com">Roamlii</a> </li>
+<li> 🎓 PhD. Biomedical Engineering</li>
+<li> 🎓 M.Sc. Computer Science</li>
+<li> 🎓 B.Sc. Mechatronics Engineering</li>
 </uk>
 
 <br><br>Hobbies: ⚽ · 🎮 · 🧑‍💻
