@@ -7,7 +7,7 @@
 <ul>
 <li> 🌾 Machine Learning Engineer </li>
 <li> 🧬 Technology Lead @ <a href="https://roamlii.com">Roamlii</a> </li>
-<li> 🎓 PhD. Biomedical Engineering</li>
+<li> 🎓 M.Sc. Biomedical Engineering</li>
 <li> 🎓 M.Sc. Computer Science</li>
 <li> 🎓 B.Sc. Mechatronics Engineering</li>
 </uk>
