@@ -126,15 +126,15 @@
 <table>
   <tr>
     <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semtu&layout=compact&langs_count=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jethroodeyemi&layout=compact&langs_count=10" />
     </td>
     <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=semtu&show_icons=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jethroodeyemi&show_icons=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
     </td>
   </tr>
 </table>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=semtu&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jethroodeyemi&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
 ---
