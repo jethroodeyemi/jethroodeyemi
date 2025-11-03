@@ -5,8 +5,8 @@
 <td>
 <h3>Jethro Odeyemi</h3>
 <ul>
-<li> 🌾 Machine Learning Engineer </li>
-<li> 🧬 Technology Lead @ <a href="https://roamlii.com">Roamlii</a> </li>
+<li> 🌾 AI & Quantum Computing </li>
+<li> 🧬 Computational Research Programmer @ <a href="https://vido.org">VIDO</a> </li>
 <li> 🎓 M.Sc. Biomedical Engineering</li>
 <li> 🎓 M.Sc. Computer Science</li>
 <li> 🎓 B.Sc. Mechatronics Engineering</li>
